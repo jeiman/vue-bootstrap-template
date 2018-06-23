@@ -10,6 +10,8 @@
 
 <style lang="scss">
 @import '../node_modules/bootstrap/scss/bootstrap.scss';
+// Any custom files that's going to override Bootstrap's styling, import it below bootstrap.scss
+
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
